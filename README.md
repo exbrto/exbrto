@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Erick 👋
 
-<!--
-**exbrto/exbrto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Engineer @ **Resilient Coders** in Boston.
 
-Here are some ideas to get you started:
+## 🛠️ Building With
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express
+- **Database:** PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+- LinkedIn: [your-link-here](https://www.linkedin.com/in/erick-e-brito/)
+- Email: erickbrito1@protonmail.com
+- Portfolio: [your-link-here](https://erick-brito.netlify.app/)
