@@ -8,6 +8,6 @@ I'm a Full-Stack Engineer @ **Resilient Coders** in Boston.
 - **Database:** MongoDB, PostgreSQL
 
 ## 📫 Connect With Me
-- LinkedIn: [your-link-here](https://www.linkedin.com/in/erick-e-brito/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/erick-e-brito/)
 - Email: erickbrito1@protonmail.com
-- Portfolio: [your-link-here](https://erick-brito.netlify.app/)
+- Portfolio: [My Portfolio](https://erick-brito.netlify.app/)
