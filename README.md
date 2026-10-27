@@ -1,8 +1,9 @@
-<h1 align="center">Hi, I'm Erick 👋</h1>
+<h1>Hi, I'm Erick 👋</h1>
 
-<p align="center">
+<p>
   Full-stack engineer at <b>Resilient Coders</b> in Boston.<br>
-  I build web apps from the database up.
+  I build web apps from the database up.<br>
+  Boxing and Muay Thai enthusiast. 🥊
 </p>
 
 ---
